@@ -23,6 +23,13 @@ A finance management web app with data visualization and predictive analysis.
 - 📉 **Charts** – Interactive graphs built with Recharts and MUI.
 - 🔗 **API Integration** – Backend powered by Express.js and MongoDB.
 
+### **Screenshots**
+
+![image](https://github.com/user-attachments/assets/4aa2434c-20e2-4db3-8010-637bd9740fa5)
+
+
+![image](https://github.com/user-attachments/assets/4c1b4428-b3c2-4e74-a05f-583781bc6aea)
+
 ## 🛠 Installation & Setup
 
 ### **Clone the Repository**
@@ -51,9 +58,4 @@ create a file named .env to store backend environment variables.
 MONGO_URL = 'mongodb+srv://user_name:password@cluster0.ze7qn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'
 PORT = 1337
 
-### **Screenshots**
 
-![image](https://github.com/user-attachments/assets/4aa2434c-20e2-4db3-8010-637bd9740fa5)
-
-
-![image](https://github.com/user-attachments/assets/a8f666a0-309c-432c-afc5-cad64fbe9c4d)
